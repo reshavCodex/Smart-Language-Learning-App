@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c24d34a3-3639-4788-8779-24726478a38d",
+    "username": "reshav",
+    "password": "1234",
+    "nativeLanguage": "Hindi",
+    "learningLanguage": "Bengali"
+  },
+  {
+    "id": "a059acc2-0418-4fee-9cd0-d15d5154b699",
+    "username": "aarav",
+    "password": "1234",
+    "nativeLanguage": "Bengali",
+    "learningLanguage": "Hindi"
+  }
+]
