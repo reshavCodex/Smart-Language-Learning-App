@@ -1,8 +1,10 @@
-# Smart-Language-Learning-App
-Project Overview
+# Smart Language Learning App
 
-This project aims to transform Indian language learning into a more interactive and conversation-based experience. Instead of relying on traditional grammar-focused methods, the platform encourages users to learn through practical communication, short daily conversations, and cultural exchange with native speakers.
+An AI-powered platform designed to make Indian language learning more practical, social, and engaging through real-time conversations, native speaker matching, cultural exchange, and personalized voice/text interactions.
 
-Using AI-powered recommendations and analytics, the system matches learners with compatible speakers based on interests, language goals, and learning progress. The platform supports both voice and text communication while tracking informal learning growth and rewarding consistent participation.
+## Project Structure
 
-The goal is to create a socially engaging ecosystem that promotes linguistic diversity, regional cultural exchange, and real-world communication skills.
+- frontend → User Interface
+- backend → APIs & Database
+- ai-model → AI/ML Features
+- docs → Documentation
