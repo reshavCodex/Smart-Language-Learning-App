@@ -12,5 +12,12 @@
     "password": "1234",
     "nativeLanguage": "Bengali",
     "learningLanguage": "Hindi"
+  },
+  {
+    "id": "d58937d1-a3cf-46e7-b1b5-ed7a5a9cde27",
+    "username": "Sudip",
+    "password": "12345",
+    "nativeLanguage": "Bengali",
+    "learningLanguage": "Hindi"
   }
 ]
